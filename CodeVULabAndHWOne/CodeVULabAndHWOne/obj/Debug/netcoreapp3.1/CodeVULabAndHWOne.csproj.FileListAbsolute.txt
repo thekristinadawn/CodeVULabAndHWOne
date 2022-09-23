@@ -1,0 +1,14 @@
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.csproj.AssemblyReference.cache
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.AssemblyInfoInputs.cache
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.AssemblyInfo.cs
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.csproj.CoreCompileInputs.cache
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\bin\Debug\netcoreapp3.1\CodeVULabAndHWOne.exe
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\bin\Debug\netcoreapp3.1\CodeVULabAndHWOne.deps.json
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\bin\Debug\netcoreapp3.1\CodeVULabAndHWOne.runtimeconfig.json
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\bin\Debug\netcoreapp3.1\CodeVULabAndHWOne.runtimeconfig.dev.json
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\bin\Debug\netcoreapp3.1\CodeVULabAndHWOne.dll
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\bin\Debug\netcoreapp3.1\CodeVULabAndHWOne.pdb
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.dll
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.pdb
+C:\git\CodeVULabAndHWOne\CodeVULabAndHWOne\CodeVULabAndHWOne\obj\Debug\netcoreapp3.1\CodeVULabAndHWOne.genruntimeconfig.cache
